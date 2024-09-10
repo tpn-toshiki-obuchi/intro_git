@@ -1,2 +1,4 @@
 Gitの練習をしていきます
 print("ああああああああああ")
+・git add
+・git commit
